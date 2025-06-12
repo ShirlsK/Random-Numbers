@@ -9,14 +9,14 @@ The user must guess the number, and the program will give hints:
 - "TOO HIGH! TRY AGAIN"
 - "Correct!" when guessed correctly
 
-## 🎮 How to play
+## How to play
 
 - Run the program.
 - Enter your guesses in the console.
 - The program will tell you if your guess is too low, too high, or correct.
 - It will also show how many attempts it took you.
 
-## 🛠️ Technologies used
+## Technologies used
 
 - C#
 - .NET 8.0 Console Application
@@ -24,14 +24,14 @@ The user must guess the number, and the program will give hints:
 - Console input/output
 - Basic game loop and user interaction
 
-## 🗂️ Project Structure
+## Project Structure
 randomNumb/
 ├── randomNumb.sln
 ├── Program.cs
 ├── randomNumb.csproj
 └── README.md
 
-## 🚀 How to run the project
+## How to run the project
 
 ### Using Visual Studio:
 
